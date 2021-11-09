@@ -1,0 +1,20 @@
+{
+    "name": "Gaming Project X",
+    "short_name": "Gaming Project X",
+    "start_url": ".",
+    "theme_color": "#ADD8E6",
+    "background_color": "#4169E1",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/Game Bar 3.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src":"images/Game Bar 4.png",
+            "sizes": "512x512",
+            "type":"image/png"
+        }
+    ]
+}
